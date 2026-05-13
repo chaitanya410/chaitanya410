@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Ubale</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://github.com/g-popovic/g-popovic](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t1YmFyNGJ6MG0yYmFmNWJ5eGVpb2VwdTc4eG8zbmg3NnBubjczbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya410&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya410" /> </p>
 
 - 🌱 I’m currently learning **MERN stack development**
