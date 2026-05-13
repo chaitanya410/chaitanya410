@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, React, MongoDB, Node.js, PostgreSQL, AWS, HTML5, Bootstrap, CSS, Python, Machine Learning, and LLMs**
 
-- 📫 How to reach me **ubalechaitanya410@gmail.com**
+- 📫 How to reach me **chaitanya.ubale410@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tOLuMj17ey06zv0omUS4mbXIuTWJkA_3/view?usp=sharing](https://drive.google.com/file/d/1tOLuMj17ey06zv0omUS4mbXIuTWJkA_3/view?usp=sharing)
 
