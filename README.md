@@ -45,7 +45,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanya410&show_icons=true&locale=en&layout=compact" alt="chaitanya410" /></p>
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=chaitanya410&show_icons=true&locale=en&layout=compact](https://camo.githubusercontent.com/4438787124ff271be7ab30495739ab9956cd955a0615238a5fcdd673a189decf/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067)" alt="chaitanya410" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya410&show_icons=true&locale=en" alt="chaitanya410" /></p>
 
