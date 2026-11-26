@@ -87,7 +87,7 @@
 | :--- | :--- | :--- | :--- |
 | **Developer Portfolio** | Responsive personal developer portfolio showcasing projects, work experience, and achievements, deployed via GitHub Actions. | `React.js`, `JavaScript`, `CSS3`, `GitHub Pages` | [Live Demo](https://chaitanya410.github.io/Chaitanya_Ubale_Portfollio/) · [Code](https://github.com/chaitanya410/Chaitanya_Ubale_Portfollio) |
 | **Real Estate Customer Portal & Admin Panel** | Full-stack property listing, customer booking, and administrative management platform built with integrated banking workflows. | `React.js`, `Node.js`, `Express.js`, `MongoDB` | [Code](https://github.com/chaitanya410) |
-| **Vision-Based Skin Detection System** | Machine learning image segmentation pipeline developed for accurate skin region detection and visual analysis. | `Python`, `OpenCV`, `Scikit-learn`, `ML` | [Code](https://github.com/chaitanya410) |
+| **Vision-Based Skin Detection System** | Machine learning image segmentation pipeline developed for accurate skin region detection and visual analysis. | `Python`, `OpenCV`, `Scikit-learn`, `ML` | [Live Demo]([https://github.com/chaitanya410](https://chaitanya410.github.io/VisionDerm/)) |
 | **Event Registration & Sync Engine** | High-concurrency web registration portal handling 1,500+ attendee signups with automated Google Sheets data-sync pipelines. | `JavaScript`, `HTML5/CSS3`, `Google Apps Script` | [Code](https://github.com/chaitanya410) |
 
 *(Update the `Code` links and add `Live Demo` links once you share the exact repository names you have pinned on your profile.)*
