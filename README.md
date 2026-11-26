@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Ubale</h1>
+<!-- <h1 align="center">Hi 👋, I'm Chaitanya Ubale</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
 
@@ -48,4 +48,93 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya410&show_icons=true&locale=en" alt="chaitanya410" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya410&" alt="chaitanya410" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya410&" alt="chaitanya410" /></p> -->
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Chaitanya Ubale</h1>
+<h3 align="center">Full-Stack Software Engineer @ Paya Tech Systems | FinTech & GenAI Builder</h3>
+
+<p align="center">
+  <a href="https://chaitanya410.github.io/Chaitanya_Ubale_Portfollio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/chaitanya-ubale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/16xhOrkCaWKyHxr5WkYs9sabQxlMoBLEt/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="mailto:chaitanya.ubale410@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 💼 **Software Developer @ Paya Tech Systems** — Architecting mission-critical FinTech backend integrations, including **Standard Chartered Virtual Account e-Collection APIs**, **ICICI Payment Gateway & Payout services**, and automated **E-NACH mandate workflows**.
+- 🏆 **Award-Winning Engineer** — Recipient of the **VJ Annual Awards 2025 (Gold)** for Quality & Safety Measures in designing a high-reliability virtual account and payment processing engine.
+- 🤖 **Building with AI** — Developing Retrieval-Augmented Generation (RAG) pipelines, LLM-powered tools, and real-time desktop monitoring utilities.
+- 💬 **Ask me about** — `Node.js`, `React.js`, `MS-SQL`, `PostgreSQL`, `MongoDB`, `AWS (EC2/S3)`, `Python`, `LangChain`, and `Payment Integrations`.
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Golu Chatbot** | Retrieval-Augmented Generation (RAG) PDF assistant for querying and extracting insights from custom documents. | `Python`, `LangChain`, `FAISS`, `Streamlit`, `OpenAI` | [Live Demo](#) · [Code](https://github.com/chaitanya410) |
+| **Developer Portfolio** | Responsive personal developer portfolio showcasing full-stack projects, experience, and achievements, automated with GitHub Actions. | `React.js`, `JavaScript`, `CSS3`, `GitHub Pages` | [Live Demo](https://chaitanya410.github.io/Chaitanya_Ubale_Portfollio/) · [Code](https://github.com/chaitanya410/Chaitanya_Ubale_Portfollio) |
+| **E-NACH Status Widget** | Standalone desktop sticky-note utility for monitoring real-time E-NACH mandate registrations, deactivations, and split-payment metrics. | `Electron.js`, `JavaScript`, `Node.js`, `REST APIs` | [Code](https://github.com/chaitanya410) |
+| **Vendor Priority Dashboard** | Enterprise payment prioritization and bill allocation dashboard featuring drag-and-drop workflows and SSO authentication. | `React.js`, `Material UI`, `Node.js`, `MS-SQL` | *Enterprise Case Study* |
+
+*(Replace the `#` and repo links above with your exact repository URLs once deployed.)*
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Frontend & Desktop**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+**Backend, Cloud & Databases**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MS-SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</p>
+
+**DevOps, Testing & Security**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya410&show_icons=true&theme=tokyonight&hide_border=true" alt="Chaitanya's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya410&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya410&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
